@@ -1,0 +1,248 @@
+{
+    "elements": {
+        "nodes": [
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 140236,
+                    "y": 155810
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "6929",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "6929"
+                },
+                "position": {
+                    "x": 282948,
+                    "y": 139590
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 189684,
+                    "y": 52065
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "375",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "375"
+                },
+                "position": {
+                    "x": 94224,
+                    "y": 272367
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 176039,
+                    "y": 288185
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "54107",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "54107"
+                },
+                "position": {
+                    "x": 103145,
+                    "y": 205795
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "9527",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "9527"
+                },
+                "position": {
+                    "x": 213595,
+                    "y": 283078
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 262349,
+                    "y": 127518
+                },
+                "selected": false
+            }
+        ],
+        "edges": [
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 140236,
+                    "y": 155810
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "6929",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "6929"
+                },
+                "position": {
+                    "x": 282948,
+                    "y": 139590
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 189684,
+                    "y": 52065
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "375",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "375"
+                },
+                "position": {
+                    "x": 94224,
+                    "y": 272367
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 176039,
+                    "y": 288185
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "54107",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "54107"
+                },
+                "position": {
+                    "x": 103145,
+                    "y": 205795
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "9527",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "9527"
+                },
+                "position": {
+                    "x": 213595,
+                    "y": 283078
+                },
+                "selected": false
+            },
+            {
+                "data": {
+                    "id": "80006",
+                    "selected": false,
+                    "NodeType": "miRNA",
+                    "Type": "miRNA",
+                    "Quality": 200,
+                    "name": "80006"
+                },
+                "position": {
+                    "x": 262349,
+                    "y": 127518
+                },
+                "selected": false
+            }
+        ]
+    }
+}
