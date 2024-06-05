@@ -13,31 +13,16 @@
         "nodes": [
             {
                 "data": {
-                    "id": "80006",
+                    "id": "9527",
                     "selected": false,
                     "NodeType": "miRNA",
                     "Type": "miRNA",
                     "Quality": 200,
-                    "name": "80006"
+                    "name": "9527"
                 },
                 "position": {
-                    "x": 37408,
-                    "y": 72437
-                },
-                "selected": false
-            },
-            {
-                "data": {
-                    "id": "6929",
-                    "selected": false,
-                    "NodeType": "miRNA",
-                    "Type": "miRNA",
-                    "Quality": 200,
-                    "name": "6929"
-                },
-                "position": {
-                    "x": 34712,
-                    "y": 162939
+                    "x": 39131,
+                    "y": 92481
                 },
                 "selected": false
             },
@@ -51,53 +36,8 @@
                     "name": "80006"
                 },
                 "position": {
-                    "x": 156442,
-                    "y": 30630
-                },
-                "selected": false
-            },
-            {
-                "data": {
-                    "id": "375",
-                    "selected": false,
-                    "NodeType": "miRNA",
-                    "Type": "miRNA",
-                    "Quality": 200,
-                    "name": "375"
-                },
-                "position": {
-                    "x": 2744,
-                    "y": 273609
-                },
-                "selected": false
-            },
-            {
-                "data": {
-                    "id": "80006",
-                    "selected": false,
-                    "NodeType": "miRNA",
-                    "Type": "miRNA",
-                    "Quality": 200,
-                    "name": "80006"
-                },
-                "position": {
-                    "x": 247118,
-                    "y": 4866
-                },
-                "selected": false
-            },
-            {
-                "data": {
-                    "id": "54107",
-                    "selected": false,
-                    "NodeType": "miRNA",
-                    "Type": "miRNA",
-                    "Quality": 200,
-                    "name": "54107"
-                },
-                "position": {
-                    "x": 211355,
-                    "y": 175099
+                    "x": 217483,
+                    "y": 64814
                 },
                 "selected": false
             },
@@ -111,23 +51,23 @@
                     "name": "9527"
                 },
                 "position": {
-                    "x": 182703,
-                    "y": 10071
+                    "x": 231617,
+                    "y": 233611
                 },
                 "selected": false
             },
             {
                 "data": {
-                    "id": "80006",
+                    "id": "3845",
                     "selected": false,
                     "NodeType": "miRNA",
                     "Type": "miRNA",
                     "Quality": 200,
-                    "name": "80006"
+                    "name": "3845"
                 },
                 "position": {
-                    "x": 168829,
-                    "y": 138078
+                    "x": 99078,
+                    "y": 266808
                 },
                 "selected": false
             }
@@ -136,72 +76,6 @@
             {
                 "data": {
                     "id": "D1",
-                    "source": "80006",
-                    "selected": false,
-                    "target": "6929",
-                    "predict_gi": "SL",
-                    "max": "0.758",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "E2",
-                    "source": "6929",
-                    "selected": false,
-                    "target": "80006",
-                    "predict_gi": "SL",
-                    "max": "0.758",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "D3",
-                    "source": "80006",
-                    "selected": false,
-                    "target": "375",
-                    "predict_gi": "SL",
-                    "max": "0.47",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "E4",
-                    "source": "375",
-                    "selected": false,
-                    "target": "80006",
-                    "predict_gi": "SL",
-                    "max": "0.47",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "D5",
-                    "source": "80006",
-                    "selected": false,
-                    "target": "54107",
-                    "predict_gi": "SL",
-                    "max": "0.446",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "E6",
-                    "source": "54107",
-                    "selected": false,
-                    "target": "80006",
-                    "predict_gi": "SL",
-                    "max": "0.446",
-                    "interaction": "cc"
-                }
-            },
-            {
-                "data": {
-                    "id": "D7",
                     "source": "9527",
                     "selected": false,
                     "target": "80006",
@@ -212,12 +86,34 @@
             },
             {
                 "data": {
-                    "id": "E8",
+                    "id": "E2",
                     "source": "80006",
                     "selected": false,
                     "target": "9527",
                     "predict_gi": "NOT",
                     "max": "0.542",
+                    "interaction": "cc"
+                }
+            },
+            {
+                "data": {
+                    "id": "D3",
+                    "source": "9527",
+                    "selected": false,
+                    "target": "3845",
+                    "predict_gi": "SL",
+                    "max": "0.992",
+                    "interaction": "cc"
+                }
+            },
+            {
+                "data": {
+                    "id": "E4",
+                    "source": "3845",
+                    "selected": false,
+                    "target": "9527",
+                    "predict_gi": "SL",
+                    "max": "0.992",
                     "interaction": "cc"
                 }
             }
